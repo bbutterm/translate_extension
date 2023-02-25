@@ -1,6 +1,6 @@
 # translate_extension
 
-You cant translate text by selecting it onpage!
+You can translate text by selecting it onpage!
 Releasing text would return its original state.
 
 You can watch demo here:
